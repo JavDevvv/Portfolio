@@ -27,8 +27,8 @@ import CODEQ from "./assets/company_logo/codeq.png";
 import HTrack from "./assets/company_logo/htrack.png";
 
 // Education Section Logo's
-import UPB from "./assets/education_logo/UPB.png"
-import CCC from "./assets/education_logo/ccc.png"
+import UPB from "./assets/education_logo/UPB.png";
+import CCC from "./assets/education_logo/ccc.png";
 
 export const SkillsInfo = [
   {
@@ -129,7 +129,7 @@ export const projects = [
       "A cross-platform mobile app for patients to log glucose and blood pressure with historical insights. Includes role-based access for relatives and doctors, real-time alerts for abnormal readings, and a patient–doctor chat system with notifications.",
     image: HTrack,
     tags: ["Flutter", "Firebase", "REST APIs", "SQLite", "Notifications"],
-    github: "https://github.com/yourusername/health-track", // replace with your repo
-    webapp: "https://yourdemoapp.com", // replace with live demo if you have one
+    github: "https://github.com/JavDevvv/Health_Track",  
+    webapp: "",  
   },
 ];

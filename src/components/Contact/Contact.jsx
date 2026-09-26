@@ -15,7 +15,7 @@ const Contact = () => {
         "service_0s30ip8", // Replace with your EmailJS Service ID
         "template_eyodtlb", // Replace with your EmailJS Template ID
         form.current,
-        "zWDYq9OKSzTPoUFqh" // Replace with your EmailJS Public Key
+        "zWDYq9OKSzTPoUFqh", // Replace with your EmailJS Public Key
       )
       .then(
         () => {
@@ -42,7 +42,7 @@ const Contact = () => {
             draggable: true,
             theme: "dark",
           });
-        }
+        },
       );
   };
 
@@ -67,7 +67,7 @@ const Contact = () => {
       {/* Contact Form */}
       <div className="mt-8 w-full max-w-md bg-[#0d081f] p-6 rounded-lg shadow-lg border border-gray-700">
         <h3 className="text-xl font-semibold text-white text-center">
-          Connect With Me <span className="ml-1">🚀</span>
+          Connect With Me
         </h3>
 
         <form

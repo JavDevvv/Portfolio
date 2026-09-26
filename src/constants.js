@@ -107,7 +107,7 @@ export const education = [
     id: 0,
     img: UPB, // replace with your uni logo if available
     school: "Universidad Politécnica de Bacalar",
-    date: "Sept 2022 - Present",
+    date: "Sept 2022 - May 2026",
     desc: "Pursuing a Bachelor's degree in Software Engineering. Focused on full-stack web and mobile application development, database management, and software engineering practices.",
     degree: "Bachelor of Software Engineering",
   },
@@ -129,7 +129,7 @@ export const projects = [
       "A cross-platform mobile app for patients to log glucose and blood pressure with historical insights. Includes role-based access for relatives and doctors, real-time alerts for abnormal readings, and a patient–doctor chat system with notifications.",
     image: HTrack,
     tags: ["Flutter", "Firebase", "REST APIs", "SQLite", "Notifications"],
-    github: "https://github.com/JavDevvv/Health_Track",  
-    webapp: "",  
+    github: "https://github.com/JavDevvv/Health_Track",
+    webapp: "",
   },
 ];
